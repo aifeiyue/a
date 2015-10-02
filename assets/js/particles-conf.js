@@ -60,7 +60,7 @@ particlesJS("home",
         }
       },
       "line_linked": {
-        "enable": true,
+        "enable": false,
         "distance": 150,
         "color": "#ffffff",
         "opacity": 0.4,
@@ -84,11 +84,11 @@ particlesJS("home",
       "detect_on": "canvas",
       "events": {
         "onhover": {
-          "enable": true,
+          "enable": false,
           "mode": "grab"
         },
         "onclick": {
-          "enable": true,
+          "enable": false,
           "mode": "bubble"
         },
         "resize": true
@@ -121,3 +121,4 @@ particlesJS("home",
     "retina_detect": true,
   }
 );
+
