@@ -61,6 +61,11 @@ section {
 /*================================
     HOME SECTION STYLES
 ==================================*/
+canvas{
+  display:block;
+  position: absolute;
+  top: 0px;
+}
 
 /*STYLE OF BACKGROUND IMAGE*/
 #home {
