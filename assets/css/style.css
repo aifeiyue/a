@@ -121,7 +121,7 @@ canvas{
 =========================================*/
 
 .parallax-like {
-    background: url(../img/stats.jpg) no-repeat center center; /* DEFINE IMAGE PATH CAREFULLY*/
+    background: url(../img/stats.png) no-repeat center center; /* DEFINE IMAGE PATH CAREFULLY*/
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
@@ -131,7 +131,7 @@ canvas{
 
     .parallax-like .overlay {
         min-height: 200px;
-        background: rgba(35, 133, 161,0.9);
+        background: rgba(35, 133, 161,0.7);
         font-size: 40px;
         padding-bottom: 60px;
         padding-top: 60px;
