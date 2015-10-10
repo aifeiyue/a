@@ -32,8 +32,9 @@ section {
 }
 
 .head-set {
-    padding-top: 20px;
+    padding-top: 15px;
     padding-bottom: 20px;
+    font-family: SimHei;
 }
 
 .pad-bottom {
@@ -171,21 +172,6 @@ canvas{
         padding-bottom: 30px;
     }
 /*================================
-    CLIENTS SECTION STYLES
-==================================*/
-#clients {
-    background-color:#f4f4f4;
-    padding-bottom:50px;
-    padding-top:50px;
-}
-    #clients img {
-        opacity:0.5;
-        cursor:pointer;
-    }
-        #clients img:hover {
-            opacity:1;
-        }
-/*================================
     FOOTER SECTION STYLES
 ==================================*/
 
@@ -202,3 +188,10 @@ footer {
         color: #fff;
         text-decoration: none;
     }
+
+
+
+.service-block {
+    padding-left:50px;
+    padding-right:50px;
+}
