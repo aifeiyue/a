@@ -190,6 +190,13 @@ footer {
     }
 
 
+/*================================
+    SERVICES SECTION STYLES
+==================================*/
+
+.dim-background {
+    background-color: rgba(35, 133, 161,0.1);
+}
 
 .service-block {
     padding-left:50px;
