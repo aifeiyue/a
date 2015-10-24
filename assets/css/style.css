@@ -141,6 +141,7 @@ canvas{
 /*================================
     PORTFOLIO / WORK SECTION STYLES
 ==================================*/
+
 .portfolio-item img:hover { /* POSTFOLIO IMAGE BIG ON HOVER */
     cursor: pointer;
     -webkit-transform: scale(1.1, 1.1);
@@ -201,4 +202,11 @@ footer {
 .service-block {
     padding-left:50px;
     padding-right:50px;
+}
+
+.team-img-size {
+    width:250px;
+    height: 250px;
+    display: block;
+    margin: auto auto;
 }
