@@ -210,3 +210,24 @@ footer {
     display: block;
     margin: auto auto;
 }
+
+/*================================
+    GHOST BUTTON
+==================================*/
+
+.btn {
+    background: rgba(35, 133, 161,0.9);
+    color: #F2F2F2;
+
+    /* CSS Transition */
+    -webkit-transition: background .2s ease-in-out, border .2s ease-in-out;
+    -moz-transition: background .2s ease-in-out, border .2s ease-in-out;
+    -ms-transition: background .2s ease-in-out, border .2s ease-in-out;
+    -o-transition: background .2s ease-in-out, border .2s ease-in-out;
+    transition: background .2s ease-in-out, border .2s ease-in-out;
+
+}
+
+#free-evaluate:hover {
+    background: rgb(35, 133, 161)
+}
